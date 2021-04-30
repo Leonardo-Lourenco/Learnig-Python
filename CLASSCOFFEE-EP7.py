@@ -1,0 +1,4 @@
+
+NUMBER = 3.14
+NUMBERCONST = 9.8
+
